@@ -15,9 +15,6 @@ Welcome to my Github profile.
 ## Connect with me
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=flat)](https://www.facebook.com/rajnish.dahal/)
 
-## Repositories
-[View all my repositories](https://github.com/Zr0-a1?tab=repositories)
-
 
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Zr0-a1&show_icons=true&theme=radical)
