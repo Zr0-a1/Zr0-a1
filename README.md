@@ -15,7 +15,8 @@ Welcome to my Github profile.
 
 
 ## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?Zr0-a1=Zr0-a1&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Zr0-a1&show_icons=true&theme=radical)
+
 
 
 
