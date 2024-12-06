@@ -3,8 +3,13 @@ Welcome to my Github profile.
 
 
 ##Skills
-- 💻 Programming: Java, Python, C
-- 🛠️ Tools: Android Studio, Firebase, Git
+- 💻 Programming: ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+                  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+                  ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)
+- 🛠️ Tools: ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=flat)
+  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
+  ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
+  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 
 
 ## Connect with me
